@@ -5,8 +5,8 @@ The NHS must expand its infrastructure and resources to match its increasing pop
 ####   Has there been adequate staff and capacity in the networks?
 ####   What was the actual utilisation of resources?
 
-## The suggested approach for the analysis is as follows:
-Data ingestion, wrangling, and predictive modelling
-Visualisation and predictions
-Jupyter Notebook: Organise a clean, easy-to-understand, and structured Notebook that has a logical flow of end-to-end analysis. 
-Tech Report
+## The suggested approach for the analysis and output created is as follows:
+_"Data ingestion, wrangling, and modelling." 
+"Visualisation and predictions."
+"Jupyter Notebook: a clean, easy-to-understand, and structured Notebook that has a logical flow of end-to-end analysis."
+"Tech Report."_
